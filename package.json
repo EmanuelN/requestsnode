@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EmanuelN/requestsnode/issues"
   },
-  "homepage": "https://github.com/EmanuelN/requestsnode#readme"
+  "homepage": "https://github.com/EmanuelN/requestsnode#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
